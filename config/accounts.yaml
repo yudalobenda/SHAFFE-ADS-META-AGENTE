@@ -1,0 +1,15 @@
+accounts:
+  - id: shaffe
+    name: Shaffe
+    meta_ad_account: act_3844410315670874
+    store_url: https://shaffecompany.com.ar
+    roas_target: 3.0
+    weekly_budget_ars: 50000
+    competitors:
+      - nombre_pagina_fb_competidor_1
+      - nombre_pagina_fb_competidor_2
+    audiences:
+      retargeting: true
+      lookalike: true
+      cold: true
+    telegram_chat_id: "7244982950"

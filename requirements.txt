@@ -1,0 +1,9 @@
+facebook-business
+anthropic
+python-telegram-bot
+sqlalchemy
+alembic
+psycopg2-binary
+pyyaml
+python-dotenv
+requests
